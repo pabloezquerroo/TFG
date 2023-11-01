@@ -1,0 +1,1 @@
+Cuando loss y val_loss son muy distintos, es un indicador de que el modelo está sobreajustando.
