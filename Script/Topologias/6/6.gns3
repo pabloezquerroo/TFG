@@ -1,0 +1,492 @@
+{
+    "auto_close": true,
+    "auto_open": false,
+    "auto_start": false,
+    "drawing_grid_size": 25,
+    "grid_size": 75,
+    "name": "6",
+    "project_id": "ebe3d628-a9f8-4234-920d-23e50e35bbb4",
+    "revision": 9,
+    "scene_height": 1000,
+    "scene_width": 2000,
+    "show_grid": false,
+    "show_interface_labels": false,
+    "show_layers": false,
+    "snap_to_grid": false,
+    "supplier": null,
+    "topology": {
+        "computes": [],
+        "drawings": [],
+        "links": [
+            {
+                "filters": {},
+                "link_id": "ec824612-e7e7-4032-9e1c-27df1d4f98df",
+                "link_style": {},
+                "nodes": [
+                    {
+                        "adapter_number": 0,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "eth0",
+                            "x": 64,
+                            "y": 36
+                        },
+                        "node_id": "41ca9ce1-97bf-4eca-a4e3-c164405c3b48",
+                        "port_number": 0
+                    },
+                    {
+                        "adapter_number": 0,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "eth0",
+                            "x": -6,
+                            "y": 20
+                        },
+                        "node_id": "332cc7a5-7df2-4cb5-80c0-05147afd42c4",
+                        "port_number": 0
+                    }
+                ],
+                "suspend": false
+            },
+            {
+                "filters": {},
+                "link_id": "a38c54e0-e1c0-402f-85c4-7d711a4e389d",
+                "link_style": {},
+                "nodes": [
+                    {
+                        "adapter_number": 0,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "eth0",
+                            "x": 72,
+                            "y": 22
+                        },
+                        "node_id": "b0a52544-a7e1-47dd-9ef5-9319875de7bb",
+                        "port_number": 0
+                    },
+                    {
+                        "adapter_number": 0,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "eth0",
+                            "x": -15,
+                            "y": 34
+                        },
+                        "node_id": "602115fc-47c4-44cf-a46d-b26b42a36959",
+                        "port_number": 0
+                    }
+                ],
+                "suspend": false
+            },
+            {
+                "filters": {},
+                "link_id": "ae1481a4-661e-4bc6-ab62-845818f068da",
+                "link_style": {},
+                "nodes": [
+                    {
+                        "adapter_number": 0,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "e0",
+                            "x": -4,
+                            "y": 12
+                        },
+                        "node_id": "75d4511b-7666-4c89-b930-14df7b77bba6",
+                        "port_number": 0
+                    },
+                    {
+                        "adapter_number": 1,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "eth1",
+                            "x": 72,
+                            "y": 25
+                        },
+                        "node_id": "332cc7a5-7df2-4cb5-80c0-05147afd42c4",
+                        "port_number": 0
+                    }
+                ],
+                "suspend": false
+            },
+            {
+                "filters": {},
+                "link_id": "78a4ba89-b6ef-47fa-b730-010904b63615",
+                "link_style": {},
+                "nodes": [
+                    {
+                        "adapter_number": 0,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "e1",
+                            "x": 75,
+                            "y": 9
+                        },
+                        "node_id": "75d4511b-7666-4c89-b930-14df7b77bba6",
+                        "port_number": 1
+                    },
+                    {
+                        "adapter_number": 1,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "eth1",
+                            "x": -6,
+                            "y": 28
+                        },
+                        "node_id": "b0a52544-a7e1-47dd-9ef5-9319875de7bb",
+                        "port_number": 0
+                    }
+                ],
+                "suspend": false
+            },
+            {
+                "filters": {},
+                "link_id": "84d46d68-12d7-4627-b669-ec3b5318c91c",
+                "link_style": {},
+                "nodes": [
+                    {
+                        "adapter_number": 0,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "eth0",
+                            "x": 38,
+                            "y": -3
+                        },
+                        "node_id": "0388d69d-aa0b-4344-bb10-6c34e984f806",
+                        "port_number": 0
+                    },
+                    {
+                        "adapter_number": 0,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "e2",
+                            "x": 21,
+                            "y": 53
+                        },
+                        "node_id": "75d4511b-7666-4c89-b930-14df7b77bba6",
+                        "port_number": 2
+                    }
+                ],
+                "suspend": false
+            }
+        ],
+        "nodes": [
+            {
+                "compute_id": "local",
+                "console": 5010,
+                "console_auto_start": true,
+                "console_type": "telnet",
+                "custom_adapters": [],
+                "first_port_name": null,
+                "height": 45,
+                "label": {
+                    "rotation": 0,
+                    "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                    "text": "FRR-1",
+                    "x": 7,
+                    "y": -25
+                },
+                "locked": false,
+                "name": "FRR-1",
+                "node_id": "332cc7a5-7df2-4cb5-80c0-05147afd42c4",
+                "node_type": "docker",
+                "port_name_format": "Ethernet{0}",
+                "port_segment_size": 0,
+                "properties": {
+                    "adapters": 8,
+                    "aux": 5011,
+                    "console_http_path": "/",
+                    "console_http_port": 80,
+                    "console_resolution": "800x600",
+                    "container_id": "e4e02a5c480a88c14b38aed01343ccc07d080ca7413898fe3fe28e79b932ce1e",
+                    "environment": "MAC=0\nTYPE=2",
+                    "extra_hosts": null,
+                    "extra_volumes": [
+                        "/etc"
+                    ],
+                    "image": "jcfabero/frr-dhcp:latest",
+                    "start_command": "zebra.sh",
+                    "usage": "Configure frr with \"vtysh\", dhcpd in \"/etc/dhcp/dhcpd.conf\" and nftables in \"/etc/nftables\"."
+                },
+                "symbol": ":/symbols/classic/router_firewall.svg",
+                "template_id": "f5731593-4473-49af-bc6d-a7e9e8d552fa",
+                "width": 66,
+                "x": -225,
+                "y": -31,
+                "z": 1
+            },
+            {
+                "compute_id": "local",
+                "console": 5000,
+                "console_auto_start": true,
+                "console_type": "telnet",
+                "custom_adapters": [],
+                "first_port_name": null,
+                "height": 45,
+                "label": {
+                    "rotation": 0,
+                    "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                    "text": "FRR-2",
+                    "x": 7,
+                    "y": -25
+                },
+                "locked": false,
+                "name": "FRR-2",
+                "node_id": "b0a52544-a7e1-47dd-9ef5-9319875de7bb",
+                "node_type": "docker",
+                "port_name_format": "Ethernet{0}",
+                "port_segment_size": 0,
+                "properties": {
+                    "adapters": 8,
+                    "aux": 5001,
+                    "console_http_path": "/",
+                    "console_http_port": 80,
+                    "console_resolution": "800x600",
+                    "container_id": "099ce37fc228f3e87379eff8e0c08ff714cfce9661b6761ffc77f2a3fadbd78a",
+                    "environment": "MAC=0\nTYPE=2",
+                    "extra_hosts": null,
+                    "extra_volumes": [
+                        "/etc"
+                    ],
+                    "image": "jcfabero/frr-dhcp:latest",
+                    "start_command": "zebra.sh",
+                    "usage": "Configure frr with \"vtysh\", dhcpd in \"/etc/dhcp/dhcpd.conf\" and nftables in \"/etc/nftables\"."
+                },
+                "symbol": ":/symbols/classic/router_firewall.svg",
+                "template_id": "f5731593-4473-49af-bc6d-a7e9e8d552fa",
+                "width": 66,
+                "x": 92,
+                "y": -34,
+                "z": 1
+            },
+            {
+                "compute_id": "local",
+                "console": 5002,
+                "console_auto_start": true,
+                "console_type": "telnet",
+                "custom_adapters": [],
+                "first_port_name": null,
+                "height": 70,
+                "label": {
+                    "rotation": 0,
+                    "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                    "text": "DNS-1",
+                    "x": -2,
+                    "y": -25
+                },
+                "locked": false,
+                "name": "DNS-1",
+                "node_id": "41ca9ce1-97bf-4eca-a4e3-c164405c3b48",
+                "node_type": "docker",
+                "port_name_format": "Ethernet{0}",
+                "port_segment_size": 0,
+                "properties": {
+                    "adapters": 1,
+                    "aux": 5003,
+                    "console_http_path": "/",
+                    "console_http_port": 80,
+                    "console_resolution": "800x600",
+                    "container_id": "171f334c4c142619f2a1cde53e0d24dd37c9bf2cc861cf67149f926f93f3e767",
+                    "environment": "MAC=0\nTYPE=1",
+                    "extra_hosts": null,
+                    "extra_volumes": [
+                        "/etc",
+                        "/var/cache/bind"
+                    ],
+                    "image": "jcfabero/server:latest",
+                    "start_command": "/bin/bash",
+                    "usage": "Configure bind9 in /etc/bind\nNetwork can be configured with DHCP via %dhclient -v eth0%"
+                },
+                "symbol": ":/symbols/classic/server.svg",
+                "template_id": "fd0fc58f-b0f9-4516-b431-b297339d6b4f",
+                "width": 49,
+                "x": -388,
+                "y": -50,
+                "z": 1
+            },
+            {
+                "compute_id": "local",
+                "console": 5004,
+                "console_auto_start": true,
+                "console_type": "telnet",
+                "custom_adapters": [],
+                "first_port_name": null,
+                "height": 70,
+                "label": {
+                    "rotation": 0,
+                    "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                    "text": "DNS-2",
+                    "x": -2,
+                    "y": -25
+                },
+                "locked": false,
+                "name": "DNS-2",
+                "node_id": "602115fc-47c4-44cf-a46d-b26b42a36959",
+                "node_type": "docker",
+                "port_name_format": "Ethernet{0}",
+                "port_segment_size": 0,
+                "properties": {
+                    "adapters": 1,
+                    "aux": 5005,
+                    "console_http_path": "/",
+                    "console_http_port": 80,
+                    "console_resolution": "800x600",
+                    "container_id": "c6114b924ffef075835b2ea3d341d82d717a7e2bc5975683bb185db1765e8cce",
+                    "environment": "MAC=0\nTYPE=1",
+                    "extra_hosts": null,
+                    "extra_volumes": [
+                        "/etc",
+                        "/var/cache/bind"
+                    ],
+                    "image": "jcfabero/server:latest",
+                    "start_command": "/bin/bash",
+                    "usage": "Configure bind9 in /etc/bind\nNetwork can be configured with DHCP via %dhclient -v eth0%"
+                },
+                "symbol": ":/symbols/classic/server.svg",
+                "template_id": "fd0fc58f-b0f9-4516-b431-b297339d6b4f",
+                "width": 49,
+                "x": 265,
+                "y": -47,
+                "z": 1
+            },
+            {
+                "compute_id": "local",
+                "console": 5006,
+                "console_auto_start": true,
+                "console_type": "telnet",
+                "custom_adapters": [],
+                "first_port_name": null,
+                "height": 70,
+                "label": {
+                    "rotation": 0,
+                    "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                    "text": "DNS-3",
+                    "x": -2,
+                    "y": -25
+                },
+                "locked": false,
+                "name": "DNS-3",
+                "node_id": "0388d69d-aa0b-4344-bb10-6c34e984f806",
+                "node_type": "docker",
+                "port_name_format": "Ethernet{0}",
+                "port_segment_size": 0,
+                "properties": {
+                    "adapters": 1,
+                    "aux": 5007,
+                    "console_http_path": "/",
+                    "console_http_port": 80,
+                    "console_resolution": "800x600",
+                    "container_id": "3f3757b0c621832ea73edcc4d2ce0493143b58fcb181d443ab2fcca4337b17df",
+                    "environment": "MAC=0\nTYPE=1",
+                    "extra_hosts": null,
+                    "extra_volumes": [
+                        "/etc",
+                        "/var/cache/bind"
+                    ],
+                    "image": "jcfabero/server:latest",
+                    "start_command": "/bin/bash",
+                    "usage": "Configure bind9 in /etc/bind\nNetwork can be configured with DHCP via %dhclient -v eth0%"
+                },
+                "symbol": ":/symbols/classic/server.svg",
+                "template_id": "fd0fc58f-b0f9-4516-b431-b297339d6b4f",
+                "width": 49,
+                "x": -62,
+                "y": 113,
+                "z": 1
+            },
+            {
+                "compute_id": "local",
+                "console": 5008,
+                "console_auto_start": false,
+                "console_type": "none",
+                "custom_adapters": [],
+                "first_port_name": null,
+                "height": 32,
+                "label": {
+                    "rotation": 0,
+                    "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                    "text": "Switch1",
+                    "x": 2,
+                    "y": -25
+                },
+                "locked": false,
+                "name": "Switch1",
+                "node_id": "75d4511b-7666-4c89-b930-14df7b77bba6",
+                "node_type": "ethernet_switch",
+                "port_name_format": "Ethernet{0}",
+                "port_segment_size": 0,
+                "properties": {
+                    "ports_mapping": [
+                        {
+                            "name": "Ethernet0",
+                            "port_number": 0,
+                            "type": "access",
+                            "vlan": 1
+                        },
+                        {
+                            "name": "Ethernet1",
+                            "port_number": 1,
+                            "type": "access",
+                            "vlan": 1
+                        },
+                        {
+                            "name": "Ethernet2",
+                            "port_number": 2,
+                            "type": "access",
+                            "vlan": 1
+                        },
+                        {
+                            "name": "Ethernet3",
+                            "port_number": 3,
+                            "type": "access",
+                            "vlan": 1
+                        },
+                        {
+                            "name": "Ethernet4",
+                            "port_number": 4,
+                            "type": "access",
+                            "vlan": 1
+                        },
+                        {
+                            "name": "Ethernet5",
+                            "port_number": 5,
+                            "type": "access",
+                            "vlan": 1
+                        },
+                        {
+                            "name": "Ethernet6",
+                            "port_number": 6,
+                            "type": "access",
+                            "vlan": 1
+                        },
+                        {
+                            "name": "Ethernet7",
+                            "port_number": 7,
+                            "type": "access",
+                            "vlan": 1
+                        }
+                    ]
+                },
+                "symbol": ":/symbols/ethernet_switch.svg",
+                "template_id": "1966b864-93e7-32d5-965f-001384eec461",
+                "width": 72,
+                "x": -71,
+                "y": -28,
+                "z": 1
+            }
+        ]
+    },
+    "type": "topology",
+    "variables": null,
+    "version": "2.2.29",
+    "zoom": 100
+}
